@@ -1,6 +1,11 @@
 # **KAFKA NO SPRING BOOT (COM SCHEMA REGISTRY)**
 
         Estudos e Pesquisas do João Caboclo da S. Filho
+
+        Adorei este trabalho!!  -  
+        Com certeza irá ajudar muitos!  -  
+        Dúvidas: johncaboclo@gmail.com, ou me chama pelo linkedin mesmo.
+        
         Adicionei esta documentação para ajudar na compreensão e desenvolvimento do projeto
         Espero que te ajude a evoluir, assim como ajudou-me!!!!
         Setembro de 2023 - Uberlândia/Minas gerais/Brasil
